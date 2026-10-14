@@ -1,0 +1,18 @@
+# Build Output
+**/bin/
+**/obj/
+.vs/
+.vscode/
+.idea/
+
+
+# Local user settings and secrets
+.env
+.env.*
+!.env.example
+appsettings.Local.json
+
+
+# OS / Editor Files
+.DS_Store
+Thumbs.db
