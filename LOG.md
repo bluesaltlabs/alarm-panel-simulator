@@ -4,6 +4,8 @@
 ## 2026-10-14
 
 Working on the console app in Program.vb
+Added the main program loop and some basic input handling. 
+
 
 * [ ] document design descisions of this application.
   * What architectural descisions am I making and why?
